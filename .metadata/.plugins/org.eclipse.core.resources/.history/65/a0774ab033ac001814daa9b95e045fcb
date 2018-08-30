@@ -1,0 +1,25 @@
+package com.example.basics;
+
+public class Operators {
+	
+	
+	
+	public Object add(Object A, Object B) {
+		
+		if(A instanceof Integer && B instanceof Integer) {
+			return (Integer) A + (Integer) B;
+		} else if(A instanceof Character && B instanceof Character) {
+			return (Integer) A + (Integer) B;
+        } else if(A instanceof String && B instanceof String) {
+        	return (Integer) A + (Integer) B;
+        } else if(A instanceof Float && B instanceof Float) {
+        	return (Integer) A + (Integer) B;
+        } else if(A instanceof Double && B instanceof Double) {
+        	return (Integer) A + (Integer) B;
+        } else {
+            return "Unknown data Type or Cant Add two different Data Type (Data Type Mismatch)";
+        }
+		
+	}
+
+}

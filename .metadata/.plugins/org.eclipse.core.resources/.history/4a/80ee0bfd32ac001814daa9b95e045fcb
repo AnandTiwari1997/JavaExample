@@ -1,0 +1,12 @@
+package com.example.basics;
+
+public class Operators {
+	
+	public Object add(Object A, Object B) {
+		Class classA = A.getClass();
+		Class classB = B.getClass();
+		Object C = (classA) A + (classB) B;
+		return C;
+	}
+
+}
