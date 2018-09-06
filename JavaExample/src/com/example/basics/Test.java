@@ -12,6 +12,10 @@ public class Test
     // Its value is different for different object.
     private int y = 33;
     
+    /**
+     * 
+     * @param x
+     */
     public void setX(int x) {
         // x passed in the argument is a local variable.
         // It is not accessible outside this function.
@@ -19,10 +23,18 @@ public class Test
         Test.x = x;
     }
     
+    /**
+     * 
+     * @return test.x
+     */
     public int getX() {
         return Test.x;
     }
  
+    /**
+     * 
+     * @param y
+     */
     public void setY(int y) {
         // y passed in the argument is a local variable.
         // It is not accessible outside this function.
@@ -30,10 +42,18 @@ public class Test
         this.y = y;
     }
     
+    /**
+     * 
+     * @return this.y
+     */
     public int getY() {
         return this.y;
     }
  
+    /**
+     * 
+     * @param args
+     */
     public static void main(String args[])
     {
         Test t1 = new Test();
