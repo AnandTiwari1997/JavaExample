@@ -39,37 +39,41 @@ public class ToolInitializer {
 		// logger.info(objectClass);
 		// logger.info("Generated hashcode is : " + objectClass.hashCode());
 
-		String name;
-		StringBuilder builder = new StringBuilder();
-		builder.append("\n");
-
-		if (args.length > 0)
-			name = args[0];
-		else {
-			logger.info("Enter the Package Name (e.g. java.util.random) : ");
-			name = scanner.next();
-		}
-
-		try {
-			Class<?> cls = Class.forName(name);
-			Class<?> superCls = cls.getSuperclass();
-
-			String modifiers = Modifier.toString(cls.getModifiers());
-			if (modifiers.length() > 0)
-				builder.append(modifiers + " ");
-			builder.append(name);
-			if (superCls != null && superCls != Object.class)
-				builder.append(" extends " + superCls.getName());
-			builder.append("{\n");
-			builder.append(GetClassDetails.printConstructor(cls));
-			builder.append(GetClassDetails.printMethods(cls));
-			builder.append(GetClassDetails.printFields(cls));
-			builder.append("\n}");
-
-			logger.info(builder);
-		} catch (ClassNotFoundException e) {
-			logger.error(e.getMessage());
-		}
+		// String name;
+		// StringBuilder builder = new StringBuilder();
+		// builder.append("\n");
+		//
+		// if (args.length > 0)
+		// name = args[0];
+		// else {
+		// logger.info("Enter the Package Name (e.g. java.util.random) : ");
+		// name = scanner.next();
+		// }
+		//
+		// try {
+		// Class<?> cls = Class.forName(name);
+		// Class<?> superCls = cls.getSuperclass();
+		//
+		// String modifiers = Modifier.toString(cls.getModifiers());
+		// if (modifiers.length() > 0)
+		// builder.append(modifiers + " ");
+		// builder.append(name);
+		// if (superCls != null && superCls != Object.class)
+		// builder.append(" extends " + superCls.getName());
+		// builder.append("{\n");
+		// builder.append(GetClassDetails.printConstructor(cls));
+		// builder.append(GetClassDetails.printMethods(cls));
+		// builder.append(GetClassDetails.printFields(cls));
+		// builder.append("\n}");
+		//
+		// logger.info(builder);
+		// } catch (ClassNotFoundException e) {
+		// logger.error(e.getMessage());
+		// }
+		
+		Permutation permutation = new Permutation();
+		Permutation.permutation("PQRS");
+		permutation.findPossiblePermutation("PQR");
 
 		logger.info("Ending Application.......");
 

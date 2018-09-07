@@ -20264,3 +20264,474 @@ public final java.util.Scanner{
 
 }
 2018-09-06 22:46:08 INFO  ToolInitializer:74 - Ending Application.......
+2018-09-07 21:56:12 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 21:56:12 INFO  Permutation:29 - [Ljava.lang.String;@5b480cf9
+2018-09-07 21:56:12 INFO  Permutation:32 - 0 0
+2018-09-07 21:56:12 INFO  Permutation:32 - 0 1
+2018-09-07 21:56:12 INFO  Permutation:32 - 1 1
+2018-09-07 21:56:12 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 21:57:10 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 21:57:10 INFO  Permutation:29 - [Ljava.lang.String;@5b480cf9
+2018-09-07 21:57:10 INFO  Permutation:32 - 0 0
+2018-09-07 21:57:10 INFO  Permutation:32 - 0 1
+2018-09-07 21:57:10 INFO  Permutation:32 - 1 0
+2018-09-07 21:57:10 INFO  Permutation:32 - 1 1
+2018-09-07 21:57:10 INFO  Permutation:32 - 2 0
+2018-09-07 21:57:10 INFO  Permutation:32 - 2 1
+2018-09-07 21:57:10 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 21:58:05 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 21:58:05 INFO  Permutation:29 - [C@5b480cf9
+2018-09-07 21:58:05 INFO  Permutation:32 - 0 0
+2018-09-07 21:58:05 INFO  Permutation:32 - 0 1
+2018-09-07 21:58:05 INFO  Permutation:32 - 1 0
+2018-09-07 21:58:05 INFO  Permutation:32 - 1 1
+2018-09-07 21:58:05 INFO  Permutation:32 - 2 0
+2018-09-07 21:58:05 INFO  Permutation:32 - 2 1
+2018-09-07 21:58:05 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 21:59:04 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 21:59:04 INFO  Permutation:28 - M
+2018-09-07 21:59:04 INFO  Permutation:31 - 0 0
+2018-09-07 21:59:04 INFO  Permutation:31 - 0 1
+2018-09-07 21:59:04 INFO  Permutation:31 - 1 0
+2018-09-07 21:59:04 INFO  Permutation:31 - 1 1
+2018-09-07 21:59:04 INFO  Permutation:31 - 2 0
+2018-09-07 21:59:04 INFO  Permutation:31 - 2 1
+2018-09-07 21:59:04 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:00:08 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:00:08 INFO  Permutation:30 - M
+2018-09-07 22:00:08 INFO  Permutation:31 - M
+2018-09-07 22:00:08 INFO  Permutation:30 - M
+2018-09-07 22:00:08 INFO  Permutation:31 - O
+2018-09-07 22:00:08 INFO  Permutation:30 - O
+2018-09-07 22:00:08 INFO  Permutation:31 - O
+2018-09-07 22:00:08 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:00:42 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:00:42 INFO  Permutation:28 - 3
+2018-09-07 22:00:42 INFO  Permutation:31 - M
+2018-09-07 22:00:42 INFO  Permutation:32 - M
+2018-09-07 22:00:42 INFO  Permutation:31 - M
+2018-09-07 22:00:42 INFO  Permutation:32 - O
+2018-09-07 22:00:42 INFO  Permutation:31 - O
+2018-09-07 22:00:42 INFO  Permutation:32 - O
+2018-09-07 22:00:42 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:01:20 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:01:20 INFO  Permutation:28 - 3
+2018-09-07 22:01:20 INFO  Permutation:31 - M
+2018-09-07 22:01:20 INFO  Permutation:32 - M
+2018-09-07 22:01:20 INFO  Permutation:31 - M
+2018-09-07 22:01:20 INFO  Permutation:32 - O
+2018-09-07 22:01:20 INFO  Permutation:31 - O
+2018-09-07 22:01:20 INFO  Permutation:32 - M
+2018-09-07 22:01:20 INFO  Permutation:31 - O
+2018-09-07 22:01:20 INFO  Permutation:32 - O
+2018-09-07 22:01:20 INFO  Permutation:31 - N
+2018-09-07 22:01:20 INFO  Permutation:32 - M
+2018-09-07 22:01:20 INFO  Permutation:31 - N
+2018-09-07 22:01:20 INFO  Permutation:32 - O
+2018-09-07 22:01:20 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:02:38 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:02:38 INFO  Permutation:28 - 3
+2018-09-07 22:02:38 INFO  Permutation:31 - M
+2018-09-07 22:02:38 INFO  Permutation:32 - O
+2018-09-07 22:02:38 INFO  Permutation:31 - M
+2018-09-07 22:02:38 INFO  Permutation:32 - N
+2018-09-07 22:02:38 INFO  Permutation:31 - O
+2018-09-07 22:02:38 INFO  Permutation:32 - N
+2018-09-07 22:02:38 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:03:55 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:03:55 INFO  Permutation:28 - 3
+2018-09-07 22:03:55 INFO  Permutation:31 - M
+2018-09-07 22:03:55 INFO  Permutation:33 - O
+2018-09-07 22:03:55 INFO  Permutation:33 - N
+2018-09-07 22:03:55 INFO  Permutation:31 - O
+2018-09-07 22:03:55 INFO  Permutation:33 - N
+2018-09-07 22:03:55 INFO  Permutation:31 - N
+2018-09-07 22:03:55 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:04:50 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:04:50 INFO  Permutation:28 - 3
+2018-09-07 22:04:50 INFO  Permutation:31 - M
+2018-09-07 22:04:50 INFO  Permutation:33 - M
+2018-09-07 22:04:50 INFO  Permutation:33 - O
+2018-09-07 22:04:50 INFO  Permutation:33 - N
+2018-09-07 22:04:50 INFO  Permutation:31 - O
+2018-09-07 22:04:50 INFO  Permutation:33 - M
+2018-09-07 22:04:50 INFO  Permutation:33 - O
+2018-09-07 22:04:50 INFO  Permutation:33 - N
+2018-09-07 22:04:50 INFO  Permutation:31 - N
+2018-09-07 22:04:50 INFO  Permutation:33 - M
+2018-09-07 22:04:50 INFO  Permutation:33 - O
+2018-09-07 22:04:50 INFO  Permutation:33 - N
+2018-09-07 22:04:50 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:05:27 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:05:27 INFO  Permutation:28 - 3
+2018-09-07 22:05:27 INFO  Permutation:31 - M
+2018-09-07 22:05:27 INFO  Permutation:35 - O
+2018-09-07 22:05:27 INFO  Permutation:35 - N
+2018-09-07 22:05:27 INFO  Permutation:31 - O
+2018-09-07 22:05:27 INFO  Permutation:35 - M
+2018-09-07 22:05:27 INFO  Permutation:35 - N
+2018-09-07 22:05:27 INFO  Permutation:31 - N
+2018-09-07 22:05:27 INFO  Permutation:35 - M
+2018-09-07 22:05:27 INFO  Permutation:35 - O
+2018-09-07 22:05:27 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 22:49:08 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 22:49:08 INFO  Permutation:29 - 3
+2018-09-07 22:49:08 INFO  Permutation:32 - M
+2018-09-07 22:49:08 INFO  Permutation:39 - 
+2018-09-07 22:49:08 INFO  Permutation:39 - OM
+2018-09-07 22:49:08 INFO  Permutation:39 - NM
+2018-09-07 22:49:08 INFO  Permutation:32 - O
+2018-09-07 22:49:08 INFO  Permutation:39 - MO
+2018-09-07 22:49:08 INFO  Permutation:39 - 
+2018-09-07 22:49:08 INFO  Permutation:39 - NO
+2018-09-07 22:49:08 INFO  Permutation:32 - N
+2018-09-07 22:49:08 INFO  Permutation:39 - MN
+2018-09-07 22:49:08 INFO  Permutation:39 - ON
+2018-09-07 22:49:08 INFO  Permutation:39 - 
+2018-09-07 22:49:08 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:00:03 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:00:03 INFO  Permutation:29 - 3
+2018-09-07 23:00:03 INFO  Permutation:32 - M
+2018-09-07 23:00:03 INFO  Permutation:32 - O
+2018-09-07 23:00:03 INFO  Permutation:32 - N
+2018-09-07 23:00:03 INFO  Permutation:49 - [null, OMN, NNM, MO, nullN, NNO, MN, ONN, Nnull]
+2018-09-07 23:00:03 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:02:33 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:02:33 INFO  Permutation:29 - 3
+2018-09-07 23:02:33 INFO  Permutation:32 - M
+2018-09-07 23:02:33 INFO  Permutation:32 - O
+2018-09-07 23:02:33 INFO  Permutation:32 - N
+2018-09-07 23:02:33 INFO  Permutation:49 - [OMN, NNM, MO, NNO, MN, ONN]
+2018-09-07 23:02:33 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:12:30 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:12:30 INFO  Permutation:31 - 3
+2018-09-07 23:12:30 INFO  Permutation:34 - M
+2018-09-07 23:12:30 INFO  Permutation:36 - M
+2018-09-07 23:12:30 INFO  Permutation:36 - O
+2018-09-07 23:12:30 INFO  Permutation:36 - N
+2018-09-07 23:12:30 INFO  Permutation:34 - O
+2018-09-07 23:12:30 INFO  Permutation:36 - M
+2018-09-07 23:12:30 INFO  Permutation:36 - O
+2018-09-07 23:12:30 INFO  Permutation:36 - N
+2018-09-07 23:12:30 INFO  Permutation:34 - N
+2018-09-07 23:12:30 INFO  Permutation:36 - M
+2018-09-07 23:12:30 INFO  Permutation:36 - O
+2018-09-07 23:12:30 INFO  Permutation:36 - N
+2018-09-07 23:12:30 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:13:18 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:13:18 INFO  Permutation:31 - 3
+2018-09-07 23:13:18 INFO  Permutation:34 - M
+2018-09-07 23:13:18 INFO  Permutation:38 - O
+2018-09-07 23:13:18 INFO  Permutation:38 - N
+2018-09-07 23:13:18 INFO  Permutation:34 - O
+2018-09-07 23:13:18 INFO  Permutation:38 - M
+2018-09-07 23:13:18 INFO  Permutation:38 - N
+2018-09-07 23:13:18 INFO  Permutation:34 - N
+2018-09-07 23:13:18 INFO  Permutation:38 - M
+2018-09-07 23:13:18 INFO  Permutation:38 - O
+2018-09-07 23:13:18 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:15:44 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:15:44 INFO  Permutation:31 - 3
+2018-09-07 23:15:44 INFO  Permutation:34 - M
+2018-09-07 23:15:44 INFO  Permutation:38 - O
+2018-09-07 23:15:44 INFO  Permutation:38 - N
+2018-09-07 23:15:44 INFO  Permutation:34 - O
+2018-09-07 23:15:44 INFO  Permutation:38 - M
+2018-09-07 23:15:44 INFO  Permutation:38 - N
+2018-09-07 23:15:44 INFO  Permutation:34 - N
+2018-09-07 23:15:44 INFO  Permutation:38 - M
+2018-09-07 23:15:44 INFO  Permutation:38 - O
+2018-09-07 23:15:44 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:16:33 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:16:33 INFO  Permutation:31 - 3
+2018-09-07 23:16:33 INFO  Permutation:34 - M
+2018-09-07 23:16:33 INFO  Permutation:38 - O
+2018-09-07 23:16:33 INFO  Permutation:38 - N
+2018-09-07 23:16:33 INFO  Permutation:34 - O
+2018-09-07 23:16:33 INFO  Permutation:38 - M
+2018-09-07 23:16:33 INFO  Permutation:38 - N
+2018-09-07 23:16:33 INFO  Permutation:34 - N
+2018-09-07 23:16:33 INFO  Permutation:38 - M
+2018-09-07 23:16:33 INFO  Permutation:38 - O
+2018-09-07 23:16:33 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:17:32 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:17:32 INFO  Permutation:31 - 3
+2018-09-07 23:17:32 INFO  Permutation:34 - M
+2018-09-07 23:17:32 INFO  Permutation:38 - O
+2018-09-07 23:17:32 INFO  Permutation:38 - N
+2018-09-07 23:17:32 INFO  Permutation:44 - N
+2018-09-07 23:17:32 INFO  Permutation:44 - O
+2018-09-07 23:17:32 INFO  Permutation:34 - O
+2018-09-07 23:17:32 INFO  Permutation:38 - M
+2018-09-07 23:17:32 INFO  Permutation:38 - N
+2018-09-07 23:17:32 INFO  Permutation:44 - N
+2018-09-07 23:17:32 INFO  Permutation:44 - M
+2018-09-07 23:17:32 INFO  Permutation:34 - N
+2018-09-07 23:17:32 INFO  Permutation:38 - M
+2018-09-07 23:17:32 INFO  Permutation:38 - O
+2018-09-07 23:17:32 INFO  Permutation:44 - O
+2018-09-07 23:17:32 INFO  Permutation:44 - M
+2018-09-07 23:17:32 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:27:46 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:27:46 INFO  Permutation:49 - [MON, MNO, OMN, ONM, NMO, NOM]
+2018-09-07 23:27:46 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:29:47 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:29:47 INFO  Permutation:49 - [PQRS, PRQ, QPRS, QRP, RPQS, RQP, SPQR, SQP]
+2018-09-07 23:29:47 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:30:18 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:30:18 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:30:18 INFO  ToolInitializer:77 - Ending Application.......
+2018-09-07 23:47:26 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:47:26 INFO  Permutation:81 - PQR
+2018-09-07 23:47:26 INFO  Permutation:81 - PRQ
+2018-09-07 23:47:26 INFO  Permutation:81 - QPR
+2018-09-07 23:47:26 INFO  Permutation:81 - QRP
+2018-09-07 23:47:26 INFO  Permutation:81 - RPQ
+2018-09-07 23:47:26 INFO  Permutation:81 - RQP
+2018-09-07 23:47:26 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:47:26 INFO  ToolInitializer:78 - Ending Application.......
+2018-09-07 23:49:56 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:49:56 INFO  Permutation:84 - P, QR
+2018-09-07 23:49:56 INFO  Permutation:84 - PQ, R
+2018-09-07 23:49:56 INFO  Permutation:84 - PQR, 
+2018-09-07 23:49:56 INFO  Permutation:81 - PQR
+2018-09-07 23:49:56 INFO  Permutation:84 - PR, Q
+2018-09-07 23:49:56 INFO  Permutation:84 - PRQ, 
+2018-09-07 23:49:56 INFO  Permutation:81 - PRQ
+2018-09-07 23:49:56 INFO  Permutation:84 - Q, PR
+2018-09-07 23:49:56 INFO  Permutation:84 - QP, R
+2018-09-07 23:49:56 INFO  Permutation:84 - QPR, 
+2018-09-07 23:49:56 INFO  Permutation:81 - QPR
+2018-09-07 23:49:56 INFO  Permutation:84 - QR, P
+2018-09-07 23:49:56 INFO  Permutation:84 - QRP, 
+2018-09-07 23:49:56 INFO  Permutation:81 - QRP
+2018-09-07 23:49:56 INFO  Permutation:84 - R, PQ
+2018-09-07 23:49:56 INFO  Permutation:84 - RP, Q
+2018-09-07 23:49:56 INFO  Permutation:84 - RPQ, 
+2018-09-07 23:49:56 INFO  Permutation:81 - RPQ
+2018-09-07 23:49:56 INFO  Permutation:84 - RQ, P
+2018-09-07 23:49:56 INFO  Permutation:84 - RQP, 
+2018-09-07 23:49:56 INFO  Permutation:81 - RQP
+2018-09-07 23:49:56 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:49:56 INFO  ToolInitializer:78 - Ending Application.......
+2018-09-07 23:50:22 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - P, QR
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - PQ, R
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - PQR, 
+2018-09-07 23:50:22 INFO  Permutation:81 - PQR
+2018-09-07 23:50:22 INFO  Permutation:84 - 1
+2018-09-07 23:50:22 INFO  Permutation:85 - PR, Q
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - PRQ, 
+2018-09-07 23:50:22 INFO  Permutation:81 - PRQ
+2018-09-07 23:50:22 INFO  Permutation:84 - 1
+2018-09-07 23:50:22 INFO  Permutation:85 - Q, PR
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - QP, R
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - QPR, 
+2018-09-07 23:50:22 INFO  Permutation:81 - QPR
+2018-09-07 23:50:22 INFO  Permutation:84 - 1
+2018-09-07 23:50:22 INFO  Permutation:85 - QR, P
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - QRP, 
+2018-09-07 23:50:22 INFO  Permutation:81 - QRP
+2018-09-07 23:50:22 INFO  Permutation:84 - 2
+2018-09-07 23:50:22 INFO  Permutation:85 - R, PQ
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - RP, Q
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - RPQ, 
+2018-09-07 23:50:22 INFO  Permutation:81 - RPQ
+2018-09-07 23:50:22 INFO  Permutation:84 - 1
+2018-09-07 23:50:22 INFO  Permutation:85 - RQ, P
+2018-09-07 23:50:22 INFO  Permutation:84 - 0
+2018-09-07 23:50:22 INFO  Permutation:85 - RQP, 
+2018-09-07 23:50:22 INFO  Permutation:81 - RQP
+2018-09-07 23:50:22 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:50:22 INFO  ToolInitializer:78 - Ending Application.......
+2018-09-07 23:52:51 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - P, QRS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PQ, RS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PQR, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PQRS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PQRS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - PQS, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PQSR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PQSR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - PR, QS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PRQ, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PRQS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PRQS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - PRS, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PRSQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PRSQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 2
+2018-09-07 23:52:51 INFO  Permutation:85 - PS, QR
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PSQ, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PSQR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PSQR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - PSR, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - PSRQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - PSRQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - Q, PRS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QP, RS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QPR, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QPRS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QPRS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - QPS, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QPSR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QPSR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - QR, PS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QRP, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QRPS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QRPS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - QRS, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QRSP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QRSP
+2018-09-07 23:52:51 INFO  Permutation:84 - 2
+2018-09-07 23:52:51 INFO  Permutation:85 - QS, PR
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QSP, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QSPR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QSPR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - QSR, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - QSRP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - QSRP
+2018-09-07 23:52:51 INFO  Permutation:84 - 2
+2018-09-07 23:52:51 INFO  Permutation:85 - R, PQS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RP, QS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RPQ, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RPQS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RPQS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - RPS, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RPSQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RPSQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - RQ, PS
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RQP, S
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RQPS, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RQPS
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - RQS, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RQSP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RQSP
+2018-09-07 23:52:51 INFO  Permutation:84 - 2
+2018-09-07 23:52:51 INFO  Permutation:85 - RS, PQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RSP, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RSPQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RSPQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - RSQ, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - RSQP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - RSQP
+2018-09-07 23:52:51 INFO  Permutation:84 - 3
+2018-09-07 23:52:51 INFO  Permutation:85 - S, PQR
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SP, QR
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SPQ, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SPQR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SPQR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - SPR, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SPRQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SPRQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - SQ, PR
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SQP, R
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SQPR, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SQPR
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - SQR, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SQRP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SQRP
+2018-09-07 23:52:51 INFO  Permutation:84 - 2
+2018-09-07 23:52:51 INFO  Permutation:85 - SR, PQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SRP, Q
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SRPQ, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SRPQ
+2018-09-07 23:52:51 INFO  Permutation:84 - 1
+2018-09-07 23:52:51 INFO  Permutation:85 - SRQ, P
+2018-09-07 23:52:51 INFO  Permutation:84 - 0
+2018-09-07 23:52:51 INFO  Permutation:85 - SRQP, 
+2018-09-07 23:52:51 INFO  Permutation:81 - SRQP
+2018-09-07 23:52:51 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:52:51 INFO  ToolInitializer:78 - Ending Application.......
+2018-09-07 23:53:15 INFO  ToolInitializer:28 - Starting Application.....
+2018-09-07 23:53:15 INFO  Permutation:81 - PQRS
+2018-09-07 23:53:15 INFO  Permutation:81 - PQSR
+2018-09-07 23:53:15 INFO  Permutation:81 - PRQS
+2018-09-07 23:53:15 INFO  Permutation:81 - PRSQ
+2018-09-07 23:53:15 INFO  Permutation:81 - PSQR
+2018-09-07 23:53:15 INFO  Permutation:81 - PSRQ
+2018-09-07 23:53:15 INFO  Permutation:81 - QPRS
+2018-09-07 23:53:15 INFO  Permutation:81 - QPSR
+2018-09-07 23:53:15 INFO  Permutation:81 - QRPS
+2018-09-07 23:53:15 INFO  Permutation:81 - QRSP
+2018-09-07 23:53:15 INFO  Permutation:81 - QSPR
+2018-09-07 23:53:15 INFO  Permutation:81 - QSRP
+2018-09-07 23:53:15 INFO  Permutation:81 - RPQS
+2018-09-07 23:53:15 INFO  Permutation:81 - RPSQ
+2018-09-07 23:53:15 INFO  Permutation:81 - RQPS
+2018-09-07 23:53:15 INFO  Permutation:81 - RQSP
+2018-09-07 23:53:15 INFO  Permutation:81 - RSPQ
+2018-09-07 23:53:15 INFO  Permutation:81 - RSQP
+2018-09-07 23:53:15 INFO  Permutation:81 - SPQR
+2018-09-07 23:53:15 INFO  Permutation:81 - SPRQ
+2018-09-07 23:53:15 INFO  Permutation:81 - SQPR
+2018-09-07 23:53:15 INFO  Permutation:81 - SQRP
+2018-09-07 23:53:15 INFO  Permutation:81 - SRPQ
+2018-09-07 23:53:15 INFO  Permutation:81 - SRQP
+2018-09-07 23:53:15 INFO  Permutation:49 - [PQR, PRQ, QPR, QRP, RPQ, RQP]
+2018-09-07 23:53:15 INFO  ToolInitializer:78 - Ending Application.......
