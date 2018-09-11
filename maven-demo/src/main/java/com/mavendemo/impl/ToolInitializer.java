@@ -1,11 +1,10 @@
 package com.mavendemo.impl;
 
-import java.lang.reflect.Modifier;
+import java.lang.reflect.Constructor;
+import java.lang.reflect.InvocationTargetException;
 import java.util.Scanner;
 
 import org.apache.log4j.Logger;
-
-import com.mavendemo.exceptions.EmptyArrayListException;
 
 /**
  * This the class that contain Main Method.
@@ -71,9 +70,28 @@ public class ToolInitializer {
 		// logger.error(e.getMessage());
 		// }
 		
-		Permutation permutation = new Permutation();
-		Permutation.permutation("PQRS");
-		permutation.findPossiblePermutation("PQR");
+		// Permutation permutation = new Permutation();
+		// Permutation.permutation("PQRS");
+		// permutation.findPossiblePermutation("PQR");
+		
+		Class cls = SingleTonClass.class;
+		try {
+			logger.debug(SingleTonClass.getInstance().hashCode());
+			
+			Constructor[] constructors = cls.getDeclaredConstructors();
+			for (Constructor constructor : constructors) {
+				constructor.setAccessible(true);
+				logger.debug(constructor.newInstance().hashCode());
+			}
+		} catch (InstantiationException e) {
+			logger.error(e);
+		} catch (IllegalAccessException e) {
+			logger.error(e);
+		} catch (IllegalArgumentException e) {
+			logger.error(e);
+		} catch (InvocationTargetException e) {
+			logger.error(e);
+		}
 
 		logger.info("Ending Application.......");
 
