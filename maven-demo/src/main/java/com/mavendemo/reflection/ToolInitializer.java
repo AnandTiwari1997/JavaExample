@@ -8,5 +8,4 @@ public class ToolInitializer {
 		findPrivateMember.getUserInput();		
 
 	}
-
 }

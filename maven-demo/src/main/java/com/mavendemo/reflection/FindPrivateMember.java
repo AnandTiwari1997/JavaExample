@@ -58,9 +58,9 @@ public class FindPrivateMember {
 			break;
 		default:
 			System.out.println("Please Privide valid Input in 1 or 2.");
-		}	
+		}
 	}
-	
+
 	private void showPrivateField() {
 		int sNo = 1;
 		System.out.println("");
@@ -81,37 +81,48 @@ public class FindPrivateMember {
 			System.out.println(sNo + ". " + wrapper);
 			sNo++;
 		}
-		
+
 		System.out.println("");
 		System.out.println("Enter the Method number you want to invoke : ");
 		int number = 0;
 		do {
 			try {
-			number = scanner.nextInt();
-			} catch(InputMismatchException e) {
+				number = scanner.nextInt();
+			} catch (InputMismatchException e) {
 				scanner.next();
 				System.out.println("Please Provide valid Input (Only Integer).");
 			}
-		}while ( number == 0);
+		} while (number == 0);
 		invokeMethod(methodIntance.get(number - 1));
-		
+
 	}
-	
+
 	public void invokeMethod(MethodWrapper methodWrapper) {
-		
+
 		Method method = methodWrapper.getMethod();
 		String name = methodWrapper.getName();
 		Class[] paramTypes = methodWrapper.getParamTypes();
-		
+		Object[] objects = new Object[paramTypes.length];
+
 		int paramNo = 1;
-		
+
 		for (Class paramType : paramTypes) {
 			System.out.println("Enter the parameter " + paramNo + " of type " + paramType.getName());
-			System.out.println(paramType.getTypeName());
-			
+			objects[paramNo - 1] = (Object) scanner.next();
 			paramNo++;
 		}
-		
+
+		try {
+			if (methodWrapper.getModifier().contains("static")) {
+				method.invoke(null, objects);
+			} else {
+				method.invoke(method.getClass().newInstance(), objects);
+			}
+		} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException
+				| InstantiationException e) {
+			System.out.println(e);
+		}
+
 	}
 
 	public void findPrivateField(Class cls) {
@@ -132,7 +143,7 @@ public class FindPrivateMember {
 		Method[] methods = cls.getDeclaredMethods();
 
 		for (Method m : methods) {
-			
+
 			String name = m.getName();
 			String modifier = Modifier.toString(m.getModifiers());
 			if (modifier.contains("private")) {
@@ -151,7 +162,5 @@ public class FindPrivateMember {
 			}
 		}
 	}
-	
-	
-	
+
 }
