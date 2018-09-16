@@ -74,7 +74,7 @@ public class ToolInitializer {
 		// Permutation.permutation("PQRS");
 		// permutation.findPossiblePermutation("PQR");
 		
-		Class cls = SingleTonClass.class;
+/*		Class cls = SingleTonClass.class;
 		try {
 			logger.debug(SingleTonClass.getInstance().hashCode());
 			
@@ -91,7 +91,10 @@ public class ToolInitializer {
 			logger.error(e);
 		} catch (InvocationTargetException e) {
 			logger.error(e);
-		}
+		}*/
+		
+		
+		Permutation.permutation("ABCDEFGHIJ");
 
 		logger.info("Ending Application.......");
 
