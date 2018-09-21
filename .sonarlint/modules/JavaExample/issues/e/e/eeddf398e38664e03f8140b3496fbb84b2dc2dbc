@@ -1,0 +1,44 @@
+
+d
+squid:S1062"9Replace this use of System.out or System.err by a logger.(³Ç±±HKRMAJORZ
+CODE_SMELL
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü¡™ýøÿÿÿÿHLRMAJORZ
+CODE_SMELL
+~squid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îæ¨·HMRMINORZ
+CODE_SMELL
+~squid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îæ¨·HNRMINORZ
+CODE_SMELL
+i
+squid:S106-"9Replace this use of System.out or System.err by a logger.(‹‡Ê—üÿÿÿÿHORMAJORZ
+CODE_SMELL
+i
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿHPRMAJORZ
+CODE_SMELL
+i
+squid:S106"9Replace this use of System.out or System.err by a logger.(×‹†ÄøÿÿÿÿHQRMAJORZ
+CODE_SMELL
+i
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¬ãð²ýÿÿÿÿHRRMAJORZ
+CODE_SMELL
+~squid:S00117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îæ¨·HSRMINORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü¦¶ÃHTRMAJORZ
+CODE_SMELL
+d
+squid:S106:"9Replace this use of System.out or System.err by a logger.(šô–¨HURMAJORZ
+CODE_SMELL
+~squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏâÐÆHVRMINORZ
+CODE_SMELL
+~squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏâÐÆHWRMINORZ
+CODE_SMELL
+i
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ÒÌø¿ýÿÿÿÿHXRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(šô–¨HYRMAJORZ
+CODE_SMELL
+i
+squid:S1066"9Replace this use of System.out or System.err by a logger.(×‹†ÄøÿÿÿÿHZRMAJORZ
+CODE_SMELL
