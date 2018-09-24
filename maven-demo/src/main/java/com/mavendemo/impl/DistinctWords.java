@@ -5,15 +5,14 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.SortedSet;
 
 import org.apache.log4j.Logger;
 
 public class DistinctWords {
 	
 	private static final Logger LOGGER = Logger.getLogger(DistinctWords.class);
-	private static Set<String> set = new HashSet<>();
+	private static SortedSet<String> set = new TreeSet<>();
 	
 	public void readFile() {	
 		
