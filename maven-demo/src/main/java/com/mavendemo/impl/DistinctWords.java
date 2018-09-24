@@ -36,12 +36,7 @@ public class DistinctWords {
 	public void findDistinctWord(String line) {
 		String[] words = line.split(" ");
 		for (String word : words) {
-			if (word.matches("[=./><)(%+-@#$^&]") 
-					|| word.matches("[0-9]+%")) continue;
-			if (word.contains(",")) word = word.split(",")[0];
-			if (word.contains(":")) word = word.split(":")[0];
-			if (word.contains(".")) word = word.substring(0, word.length() - 1);
-			set.add(word);
+			if (word.matches("[a-zA-Z]+")) set.add(word);
 		}
 	}
 	
